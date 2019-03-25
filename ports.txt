@@ -1,0 +1,12 @@
+https://hidemyna.me/ru/ports/
+
+Not shown: 993 filtered ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+135/tcp   open  msrpc
+443/tcp   open  https
+3389/tcp  open  ms-term-serv
+8090/tcp  open  unknown
+49154/tcp open  unknown
+Nmap done: 1 IP address (1 host up) scanned in 20.34 seconds
